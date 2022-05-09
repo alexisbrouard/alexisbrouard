@@ -29,6 +29,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
+<img style="margin: 10px" src="https://drive.google.com/file/d/1ew4gJw8pj26lI6imNqW1hLtsBPQnTcAL/view?usp=sharing" alt="C" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
