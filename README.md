@@ -80,7 +80,7 @@
 <a href="https://linkedin.com/in/alexis-brouard-341466184" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/alexis.brouard31" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://stackoverflow.com/users/20824337/alexis-brouard" target="_blank">
+<img src=https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
