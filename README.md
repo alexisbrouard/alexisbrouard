@@ -1,11 +1,14 @@
 ### <div align="center">I'm Alexis, a half-time developer 👨‍💻 learning since 2017 video games, IOT, mobile and software engineering 🚀</div>  
   
 
-- 🔭 I’m currently studying on [Ynov Toulouse](https://ynov-toulouse.com/)  
+- 🔭 I studied on [Ynov Toulouse](https://ynov-toulouse.com/)  
   
 
-- 🌱 I’m currently learning video games with Unity and mobile with Flutter  
-  
+- 🌱 I’m currently creating a videogame with Unity and learning Flutter
+
+
+- 💮 I'm working for [Viveris](https://www.viveris.fr/)
+
 
 - ❓ Ask me about anything related to back or C / C# / C++  
   
